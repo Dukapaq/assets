@@ -1,0 +1,3184 @@
+[
+  {
+    "id": "1",
+    "name": "MOMBASA",
+    "constituencies": [
+      {
+        "name": "changamwe",
+        "wards": [
+          { "name": "port reitz" },
+          { "name": "kipevu" },
+          { "name": "airport" },
+          { "name": "changamwe" },
+          { "name": "chaani" }
+        ]
+      },
+      {
+        "name": "jomvu",
+        "wards": [
+          { "name": "jomvu kuu" },
+          { "name": "miritini" },
+          { "name": "mikindani" }
+        ]
+      },
+      {
+        "name": "kisauni",
+        "wards": [
+          { "name": "mjambere" },
+          { "name": "junda" },
+          { "name": "bamburi" },
+          { "name": "mwakirunge" },
+          { "name": "mtopanga" },
+          { "name": "magogoni" },
+          { "name": "shanzu" }
+        ]
+      },
+      {
+        "name": "nyali",
+        "wards": [
+          { "name": "frere town" },
+          { "name": "ziwa la ng'ombe" },
+          { "name": "mkomani" },
+          { "name": "kongowea" },
+          { "name": "kadzandani" }
+        ]
+      },
+      {
+        "name": "likoni",
+        "wards": [
+          { "name": "mtongwe" },
+          { "name": "shika adabu" },
+          { "name": "bofu" },
+          { "name": "likoni" },
+          { "name": "timbwani" }
+        ]
+      },
+      {
+        "name": "mvita",
+        "wards": [
+          { "name": "mji wa kale/makadara" },
+          { "name": "tudor" },
+          { "name": "tononoka" },
+          { "name": "shimanzi/ganjoni" },
+          { "name": "majengo" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "KWALE",
+    "constituencies": [
+      {
+        "name": "msambweni",
+        "wards": [
+          { "name": "gombatobongwe" },
+          { "name": "ukunda" },
+          { "name": "kinondo" },
+          { "name": "ramisi" }
+        ]
+      },
+      {
+        "name": "lungalunga",
+        "wards": [
+          { "name": "pongwekikoneni" },
+          { "name": "dzombo" },
+          { "name": "mwereni" },
+          { "name": "vanga" }
+        ]
+      },
+      {
+        "name": "matuga",
+        "wards": [
+          { "name": "tsimba golini" },
+          { "name": "waa" },
+          { "name": "tiwi" },
+          { "name": "kubo south" },
+          { "name": "mkongani" }
+        ]
+      },
+      {
+        "name": "kinango",
+        "wards": [
+          { "name": "nadavaya" },
+          { "name": "puma" },
+          { "name": "kinango" },
+          { "name": "mackinnon-road" },
+          { "name": "chengoni/samburu" },
+          { "name": "mwavumbo" },
+          { "name": "kasemeni" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "KILIFI",
+    "constituencies": [
+      {
+        "name": "kilifi north",
+        "wards": [
+          { "name": "tezo" },
+          { "name": "sokoni" },
+          { "name": "kibarani" },
+          { "name": "dabaso" },
+          { "name": "matsangoni" },
+          { "name": "watamu" },
+          { "name": "mnarani" }
+        ]
+      },
+      {
+        "name": "kilifi south",
+        "wards": [
+          { "name": "junju" },
+          { "name": "mwarakaya" },
+          { "name": "shimo la tewa" },
+          { "name": "chasimba" },
+          { "name": "mtepeni" }
+        ]
+      },
+      {
+        "name": "kaloleni",
+        "wards": [
+          { "name": "mariakani" },
+          { "name": "kayafungo" },
+          { "name": "kaloleni" },
+          { "name": "mwanamwinga" }
+        ]
+      },
+      {
+        "name": "rabai",
+        "wards": [
+          { "name": "mwawesa" },
+          { "name": "ruruma" },
+          { "name": "kambe/ribe" },
+          { "name": "rabai/kisurutini" }
+        ]
+      },
+      {
+        "name": "ganze",
+        "wards": [
+          { "name": "ganze" },
+          { "name": "bamba" },
+          { "name": "jaribuni" },
+          { "name": "sokoke" }
+        ]
+      },
+      {
+        "name": "malindi",
+        "wards": [
+          { "name": "jilore" },
+          { "name": "kakuyuni" },
+          { "name": "ganda" },
+          { "name": "malindi town" },
+          { "name": "shella" }
+        ]
+      },
+      {
+        "name": "magarini",
+        "wards": [
+          { "name": "marafa" },
+          { "name": "magarini" },
+          { "name": "gongoni" },
+          { "name": "adu" },
+          { "name": "garashi" },
+          { "name": "sabaki" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "TANA RIVER",
+    "constituencies": [
+      {
+        "name": "garsen",
+        "wards": [
+          { "name": "kipini east" },
+          { "name": "garsen south" },
+          { "name": "kipini west" },
+          { "name": "garsen central" },
+          { "name": "garsen west" },
+          { "name": "garsen north" }
+        ]
+      },
+      {
+        "name": "galole",
+        "wards": [
+          { "name": "kinakomba" },
+          { "name": "mikinduni" },
+          { "name": "chewani" },
+          { "name": "wayu" }
+        ]
+      },
+      {
+        "name": "bura",
+        "wards": [
+          { "name": "chewele" },
+          { "name": "bura" },
+          { "name": "bangale" },
+          { "name": "sala" },
+          { "name": "madogo" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "LAMU",
+    "constituencies": [
+      {
+        "name": "lamu east",
+        "wards": [
+          { "name": "faza" },
+          { "name": "kiunga" },
+          { "name": "basuba" }
+        ]
+      },
+      {
+        "name": "lamu west",
+        "wards": [
+          { "name": "shella" },
+          { "name": "mkomani" },
+          { "name": "hindi" },
+          { "name": "mkunumbi" },
+          { "name": "hongwe" },
+          { "name": "witu" },
+          { "name": "bahari" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "TAITA TAVETA",
+    "constituencies": [
+      {
+        "name": "taveta",
+        "wards": [
+          { "name": "chala" },
+          { "name": "mahoo" },
+          { "name": "bomeni" },
+          { "name": "mboghoni" },
+          { "name": "mata" }
+        ]
+      },
+      {
+        "name": "wundanyi",
+        "wards": [
+          { "name": "wundanyi/mbale" },
+          { "name": "werugha" },
+          { "name": "wumingu/kishushe" },
+          { "name": "mwanda/mgange" }
+        ]
+      },
+      {
+        "name": "mwatate",
+        "wards": [
+          { "name": "rong'e" },
+          { "name": "mwatate" },
+          { "name": "bura" },
+          { "name": "chawia" },
+          { "name": "wusi/kishamba" }
+        ]
+      },
+      {
+        "name": "voi",
+        "wards": [
+          { "name": "mbololo" },
+          { "name": "sagalla" },
+          { "name": "kaloleni" },
+          { "name": "marungu" },
+          { "name": "kasigau" },
+          { "name": "ngolia" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "GARISSA",
+    "constituencies": [
+      {
+        "name": "garissa township",
+        "wards": [
+          { "name": "waberi" },
+          { "name": "galbet" },
+          { "name": "township" },
+          { "name": "iftin" }
+        ]
+      },
+      {
+        "name": "balambala",
+        "wards": [
+          { "name": "balambala" },
+          { "name": "danyere" },
+          { "name": "jara jara" },
+          { "name": "saka" },
+          { "name": "sankuri" }
+        ]
+      },
+      {
+        "name": "lagdera",
+        "wards": [
+          { "name": "modogashe" },
+          { "name": "benane" },
+          { "name": "goreale" },
+          { "name": "maalimin" },
+          { "name": "sabena" },
+          { "name": "baraki" }
+        ]
+      },
+      {
+        "name": "dadaab",
+        "wards": [
+          { "name": "dertu" },
+          { "name": "dadaab" },
+          { "name": "labasigale" },
+          { "name": "damajale" },
+          { "name": "liboi" },
+          { "name": "abakaile" }
+        ]
+      },
+      {
+        "name": "fafi",
+        "wards": [
+          { "name": "bura" },
+          { "name": "dekaharia" },
+          { "name": "jarajila" },
+          { "name": "fafi" },
+          { "name": "nanighi" }
+        ]
+      },
+      {
+        "name": "ijara",
+        "wards": [
+          { "name": "hulugho" },
+          { "name": "sangailu" },
+          { "name": "ijara" },
+          { "name": "masalani" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "WAJIR",
+    "constituencies": [
+      {
+        "name": "wajir north",
+        "wards": [
+          { "name": "gurar" },
+          { "name": "bute" },
+          { "name": "korondile" },
+          { "name": "malkagufu" },
+          { "name": "batalu" },
+          { "name": "danaba" },
+          { "name": "godoma" }
+        ]
+      },
+      {
+        "name": "wajir east",
+        "wards": [
+          { "name": "wagberi" },
+          { "name": "township" },
+          { "name": "barwago" },
+          { "name": "khorof/harar" }
+        ]
+      },
+      {
+        "name": "tarbaj",
+        "wards": [
+          { "name": "elben" },
+          { "name": "sarman" },
+          { "name": "tarbaj" },
+          { "name": "wargadud" }
+        ]
+      },
+      {
+        "name": "wajir west",
+        "wards": [
+          { "name": "arbajahan" },
+          { "name": "hadado/athibohol" },
+          { "name": "ademasajide" },
+          { "name": "wagalla/ganyure" }
+        ]
+      },
+      {
+        "name": "eldas",
+        "wards": [
+          { "name": "eldas" },
+          { "name": "della" },
+          { "name": "lakoley south/basir" },
+          { "name": "elnur/tula tula" }
+        ]
+      },
+      {
+        "name": "wajir south",
+        "wards": [
+          { "name": "benane" },
+          { "name": "burder" },
+          { "name": "dadaja bulla" },
+          { "name": "habasswein" },
+          { "name": "lagboghol south" },
+          { "name": "ibrahim ure" },
+          { "name": "diif" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "MANDERA",
+    "constituencies": [
+      {
+        "name": "mandera west",
+        "wards": [
+          { "name": "takaba south" },
+          { "name": "takaba" },
+          { "name": "lag sure" },
+          { "name": "dandu" },
+          { "name": "gither" }
+        ]
+      },
+      {
+        "name": "banissa",
+        "wards": [
+          { "name": "banissa" },
+          { "name": "derkhale" },
+          { "name": "guba" },
+          { "name": "malkamari" },
+          { "name": "kiliwehiri" }
+        ]
+      },
+      {
+        "name": "mandera north",
+        "wards": [
+          { "name": "ashabito" },
+          { "name": "guticha" },
+          { "name": "morothile" },
+          { "name": "rhamu" },
+          { "name": "rhamu-dimtu" }
+        ]
+      },
+      {
+        "name": "mandera south",
+        "wards": [
+          { "name": "wargudud" },
+          { "name": "kutulo" },
+          { "name": "elwak south" },
+          { "name": "elwak north" },
+          { "name": "shimbir fatuma" }
+        ]
+      },
+      {
+        "name": "mandera east",
+        "wards": [
+          { "name": "arabia" },
+          { "name": "bulla mpya" },
+          { "name": "khalalio" },
+          { "name": "neboi" },
+          { "name": "township" }
+        ]
+      },
+      {
+        "name": "lafey",
+        "wards": [
+          { "name": "libehia" },
+          { "name": "fino" },
+          { "name": "lafey" },
+          { "name": "warankara" },
+          { "name": "alungo gof" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "MARSABIT",
+    "constituencies": [
+      {
+        "name": "moyale",
+        "wards": [
+          { "name": "butiye" },
+          { "name": "sololo" },
+          { "name": "heilu-manyatta" },
+          { "name": "golbo" },
+          { "name": "moyale township" },
+          { "name": "uran" },
+          { "name": "obbu" }
+        ]
+      },
+      {
+        "name": "north horr",
+        "wards": [
+          { "name": "illeret" },
+          { "name": "north horr" },
+          { "name": "dukana" },
+          { "name": "maikona" },
+          { "name": "turbi" }
+        ]
+      },
+      {
+        "name": "saku",
+        "wards": [
+          { "name": "sagante/jaldesa" },
+          { "name": "karare" },
+          { "name": "marsabit central" }
+        ]
+      },
+      {
+        "name": "laisamis",
+        "wards": [
+          { "name": "loiyangalani" },
+          { "name": "kargi/south horr" },
+          { "name": "korr/ngurunit" },
+          { "name": "log logo" },
+          { "name": "laisamis" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "ISIOLO",
+    "constituencies": [
+      {
+        "name": "isiolo north",
+        "wards": [
+          { "name": "wabera" },
+          { "name": "bulla pesa" },
+          { "name": "chari" },
+          { "name": "cherab" },
+          { "name": "ngare mara" },
+          { "name": "burat" },
+          { "name": "oldonyiro" }
+        ]
+      },
+      {
+        "name": "isiolo south",
+        "wards": [
+          { "name": "garbatulla" },
+          { "name": "kinna" },
+          { "name": "sericho" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "MERU",
+    "constituencies": [
+      {
+        "name": "igembe south",
+        "wards": [
+          { "name": "maua" },
+          { "name": "kiegoi/antubochiu" },
+          { "name": "athiru gaiti" },
+          { "name": "akachiu" },
+          { "name": "kanuni" }
+        ]
+      },
+      {
+        "name": "igembe central",
+        "wards": [
+          { "name": "akirang'ondu" },
+          { "name": "athiru ruujine" },
+          { "name": "igembe east" },
+          { "name": "njia" },
+          { "name": "kangeta" }
+        ]
+      },
+      {
+        "name": "igembe north",
+        "wards": [
+          { "name": "antuambui" },
+          { "name": "ntunene" },
+          { "name": "antubetwe kiongo" },
+          { "name": "naathu" },
+          { "name": "amwathi" }
+        ]
+      },
+      {
+        "name": "tigania west",
+        "wards": [
+          { "name": "athwana" },
+          { "name": "akithii" },
+          { "name": "kianjai" },
+          { "name": "nkomo" },
+          { "name": "mbeu" }
+        ]
+      },
+      {
+        "name": "tigania east",
+        "wards": [
+          { "name": "thangatha" },
+          { "name": "mikinduri" },
+          { "name": "kiguchwa" },
+          { "name": "muthara" },
+          { "name": "karama" }
+        ]
+      },
+      {
+        "name": "north imenti",
+        "wards": [
+          { "name": "municipality" },
+          { "name": "ntima east" },
+          { "name": "ntima west" },
+          { "name": "nyaki west" },
+          { "name": "nyaki east" }
+        ]
+      },
+      {
+        "name": "buuri",
+        "wards": [
+          { "name": "timau" },
+          { "name": "kisima" },
+          { "name": "kiirua/naari" },
+          { "name": "ruiri/rwarera" },
+          { "name": "kibirichia" }
+        ]
+      },
+      {
+        "name": "central imenti",
+        "wards": [
+          { "name": "mwanganthia" },
+          { "name": "abothuguchi central" },
+          { "name": "abothuguchi west" },
+          { "name": "kiagu" }
+        ]
+      },
+      {
+        "name": "south imenti",
+        "wards": [
+          { "name": "mitunguu" },
+          { "name": "igoji east" },
+          { "name": "igoji west" },
+          { "name": "abogeta east" },
+          { "name": "abogeta west" },
+          { "name": "nkuene" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "THARAKA-NITHI",
+    "constituencies": [
+      {
+        "name": "maara",
+        "wards": [
+          { "name": "mitheru" },
+          { "name": "muthambi" },
+          { "name": "mwimbi" },
+          { "name": "ganga" },
+          { "name": "chogoria" }
+        ]
+      },
+      {
+        "name": "chuka/igambang'om",
+        "wards": [
+          { "name": "mariani" },
+          { "name": "karingani" },
+          { "name": "magumoni" },
+          { "name": "mugwe" },
+          { "name": "igambang'ombe" }
+        ]
+      },
+      {
+        "name": "tharaka",
+        "wards": [
+          { "name": "gatunga" },
+          { "name": "mukothima" },
+          { "name": "nkondi" },
+          { "name": "chiakariga" },
+          { "name": "marimanti" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "EMBU",
+    "constituencies": [
+      {
+        "name": "manyatta",
+        "wards": [
+          { "name": "ruguru/ngandori" },
+          { "name": "kithimu" },
+          { "name": "nginda" },
+          { "name": "mbeti north" },
+          { "name": "kirimari" },
+          { "name": "gaturi south" }
+        ]
+      },
+      {
+        "name": "runyenjes",
+        "wards": [
+          { "name": "gaturi north" },
+          { "name": "kagaari south" },
+          { "name": "central  ward" },
+          { "name": "kagaari north" },
+          { "name": "kyeni north" },
+          { "name": "kyeni south" }
+        ]
+      },
+      {
+        "name": "mbeere south",
+        "wards": [
+          { "name": "mwea" },
+          { "name": "makima" },
+          { "name": "mbeti south" },
+          { "name": "mavuria" },
+          { "name": "kiambere" }
+        ]
+      },
+      {
+        "name": "mbeere north",
+        "wards": [
+          { "name": "nthawa" },
+          { "name": "muminji" },
+          { "name": "evurore" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "KITUI",
+    "constituencies": [
+      {
+        "name": "mwingi north",
+        "wards": [
+          { "name": "ngomeni" },
+          { "name": "kyuso" },
+          { "name": "mumoni" },
+          { "name": "tseikuru" },
+          { "name": "tharaka" }
+        ]
+      },
+      {
+        "name": "mwingi west",
+        "wards": [
+          { "name": "kyome/thaana" },
+          { "name": "nguutani" },
+          { "name": "migwani" },
+          { "name": "kiomo/kyethani" }
+        ]
+      },
+      {
+        "name": "mwingi central",
+        "wards": [
+          { "name": "central" },
+          { "name": "kivou" },
+          { "name": "nguni" },
+          { "name": "nuu" },
+          { "name": "mui" },
+          { "name": "waita" }
+        ]
+      },
+      {
+        "name": "kitui west",
+        "wards": [
+          { "name": "mutonguni" },
+          { "name": "kauwi" },
+          { "name": "matinyani" },
+          { "name": "kwa mutonga/kithumula" }
+        ]
+      },
+      {
+        "name": "kitui rural",
+        "wards": [
+          { "name": "kisasi" },
+          { "name": "mbitini" },
+          { "name": "kwavonza/yatta" },
+          { "name": "kanyangi" }
+        ]
+      },
+      {
+        "name": "kitui central",
+        "wards": [
+          { "name": "miambani" },
+          { "name": "township" },
+          { "name": "kyangwithya west" },
+          { "name": "mulango" },
+          { "name": "kyangwithya east" }
+        ]
+      },
+      {
+        "name": "kitui east",
+        "wards": [
+          { "name": "zombe/mwitika" },
+          { "name": "chuluni" },
+          { "name": "nzambani" },
+          { "name": "voo/kyamatu" },
+          { "name": "endau/malalani" },
+          { "name": "mutito/kaliku" }
+        ]
+      },
+      {
+        "name": "kitui south",
+        "wards": [
+          { "name": "ikanga/kyatune" },
+          { "name": "mutomo" },
+          { "name": "mutha" },
+          { "name": "ikutha" },
+          { "name": "kanziko" },
+          { "name": "athi" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "MACHAKOS",
+    "constituencies": [
+      {
+        "name": "masinga",
+        "wards": [
+          { "name": "kivaa" },
+          { "name": "masinga central" },
+          { "name": "ekalakala" },
+          { "name": "muthesya" },
+          { "name": "ndithini" }
+        ]
+      },
+      {
+        "name": "yatta",
+        "wards": [
+          { "name": "ndalani" },
+          { "name": "matuu" },
+          { "name": "kithimani" },
+          { "name": "ikombe" },
+          { "name": "katangi" }
+        ]
+      },
+      {
+        "name": "kangundo",
+        "wards": [
+          { "name": "kangundo north" },
+          { "name": "kangundo central" },
+          { "name": "kangundo east" },
+          { "name": "kangundo west" }
+        ]
+      },
+      {
+        "name": "matungulu",
+        "wards": [
+          { "name": "tala" },
+          { "name": "matungulu north" },
+          { "name": "matungulu east" },
+          { "name": "matungulu west" },
+          { "name": "kyeleni" }
+        ]
+      },
+      {
+        "name": "kathiani",
+        "wards": [
+          { "name": "mitaboni" },
+          { "name": "kathiani central" },
+          { "name": "upper kaewa/iveti" },
+          { "name": "lower kaewa/kaani" }
+        ]
+      },
+      {
+        "name": "mavoko",
+        "wards": [
+          { "name": "athi river" },
+          { "name": "kinanie" },
+          { "name": "muthwani" },
+          { "name": "syokimau/mulolongo" }
+        ]
+      },
+      {
+        "name": "machakos town",
+        "wards": [
+          { "name": "kalama" },
+          { "name": "mua" },
+          { "name": "mutituni" },
+          { "name": "machakos central" },
+          { "name": "mumbuni north" },
+          { "name": "muvuti/kiima-kimwe" },
+          { "name": "kola" }
+        ]
+      },
+      {
+        "name": "mwala",
+        "wards": [
+          { "name": "mbiuni" },
+          { "name": "makutano/ mwala" },
+          { "name": "masii" },
+          { "name": "muthetheni" },
+          { "name": "wamunyu" },
+          { "name": "kibauni" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "MAKUENI",
+    "constituencies": [
+      {
+        "name": "mbooni",
+        "wards": [
+          { "name": "tulimani" },
+          { "name": "mbooni" },
+          { "name": "kithungo/kitundu" },
+          { "name": "kisau/kiteta" },
+          { "name": "waia/kako" },
+          { "name": "kalawa" }
+        ]
+      },
+      {
+        "name": "kilome",
+        "wards": [
+          { "name": "kasikeu" },
+          { "name": "mukaa" },
+          { "name": "kiima kiu/kalanzoni" }
+        ]
+      },
+      {
+        "name": "kaiti",
+        "wards": [
+          { "name": "ukia" },
+          { "name": "kee" },
+          { "name": "kilungu" },
+          { "name": "ilima" }
+        ]
+      },
+      {
+        "name": "makueni",
+        "wards": [
+          { "name": "wote" },
+          { "name": "muvau/kikuumini" },
+          { "name": "mavindini" },
+          { "name": "kitise/kithuki" },
+          { "name": "kathonzweni" },
+          { "name": "nzaui/kilili/kalamba" },
+          { "name": "mbitini" }
+        ]
+      },
+      {
+        "name": "kibwezi west",
+        "wards": [
+          { "name": "makindu" },
+          { "name": "nguumo" },
+          { "name": "kikumbulyu north" },
+          { "name": "kikumbulyu south" },
+          { "name": "nguu/masumba" },
+          { "name": "emali/mulala" }
+        ]
+      },
+      {
+        "name": "kibwezi east",
+        "wards": [
+          { "name": "masongaleni" },
+          { "name": "mtito andei" },
+          { "name": "thange" },
+          { "name": "ivingoni/nzambani" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "NYANDARUA",
+    "constituencies": [
+      {
+        "name": "kinangop",
+        "wards": [
+          { "name": "engineer" },
+          { "name": "gathara" },
+          { "name": "north kinangop" },
+          { "name": "murungaru" },
+          { "name": "njabini\\kiburu" },
+          { "name": "nyakio" },
+          { "name": "githabai" },
+          { "name": "magumu" }
+        ]
+      },
+      {
+        "name": "kipipiri",
+        "wards": [
+          { "name": "wanjohi" },
+          { "name": "kipipiri" },
+          { "name": "geta" },
+          { "name": "githioro" }
+        ]
+      },
+      {
+        "name": "ol kalou",
+        "wards": [
+          { "name": "karau" },
+          { "name": "kanjuiri ridge" },
+          { "name": "mirangine" },
+          { "name": "kaimbaga" },
+          { "name": "rurii" }
+        ]
+      },
+      {
+        "name": "ol jorok",
+        "wards": [
+          { "name": "gathanji" },
+          { "name": "gatimu" },
+          { "name": "weru" },
+          { "name": "charagita" }
+        ]
+      },
+      {
+        "name": "ndaragwa",
+        "wards": [
+          { "name": "leshau pondo" },
+          { "name": "kiriita" },
+          { "name": "central" },
+          { "name": "shamata" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "NYERI",
+    "constituencies": [
+      {
+        "name": "tetu",
+        "wards": [
+          { "name": "dedan kimanthi" },
+          { "name": "wamagana" },
+          { "name": "aguthi/gaaki" }
+        ]
+      },
+      {
+        "name": "kieni",
+        "wards": [
+          { "name": "mweiga" },
+          { "name": "naromoru kiamathaga" },
+          { "name": "mwiyogo/endarasha" },
+          { "name": "mugunda" },
+          { "name": "gatarakwa" },
+          { "name": "thegu river" },
+          { "name": "kabaru" },
+          { "name": "gakawa" }
+        ]
+      },
+      {
+        "name": "mathira",
+        "wards": [
+          { "name": "ruguru" },
+          { "name": "magutu" },
+          { "name": "iriaini" },
+          { "name": "konyu" },
+          { "name": "kirimukuyu" },
+          { "name": "karatina town" }
+        ]
+      },
+      {
+        "name": "othaya",
+        "wards": [
+          { "name": "mahiga" },
+          { "name": "iria-ini" },
+          { "name": "chinga" },
+          { "name": "karima" }
+        ]
+      },
+      {
+        "name": "mukurweini",
+        "wards": [
+          { "name": "gikondi" },
+          { "name": "rugi" },
+          { "name": "mukurwe-ini west" },
+          { "name": "mukurwe-ini central" }
+        ]
+      },
+      {
+        "name": "nyeri town",
+        "wards": [
+          { "name": "kiganjo/mathari" },
+          { "name": "rware" },
+          { "name": "gatitu/muruguru" },
+          { "name": "ruring'u" },
+          { "name": "kamakwa/mukaro" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "KIRINYAGA",
+    "constituencies": [
+      {
+        "name": "mwea",
+        "wards": [
+          { "name": "mutithi" },
+          { "name": "kangai" },
+          { "name": "thiba" },
+          { "name": "wamumu" },
+          { "name": "nyangati" },
+          { "name": "murinduko" },
+          { "name": "gathigiriri" },
+          { "name": "tebere" }
+        ]
+      },
+      {
+        "name": "gichugu",
+        "wards": [
+          { "name": "kabare" },
+          { "name": "baragwi" },
+          { "name": "njukiini" },
+          { "name": "ngariama" },
+          { "name": "karumandi" }
+        ]
+      },
+      {
+        "name": "ndia",
+        "wards": [
+          { "name": "mukure" },
+          { "name": "kiine" },
+          { "name": "kariti" }
+        ]
+      },
+      {
+        "name": "kirinyaga central",
+        "wards": [
+          { "name": "mutira" },
+          { "name": "kanyeki-ini" },
+          { "name": "kerugoya" },
+          { "name": "inoi" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "MURANG'A",
+    "constituencies": [
+      {
+        "name": "kangema",
+        "wards": [
+          { "name": "kanyenyaini" },
+          { "name": "muguru" },
+          { "name": "rwathia" }
+        ]
+      },
+      {
+        "name": "mathioya",
+        "wards": [
+          { "name": "gitugi" },
+          { "name": "kiru" },
+          { "name": "kamacharia" }
+        ]
+      },
+      {
+        "name": "kiharu",
+        "wards": [
+          { "name": "wangu" },
+          { "name": "mugoiri" },
+          { "name": "mbiri" },
+          { "name": "township" },
+          { "name": "murarandia" },
+          { "name": "gaturi" }
+        ]
+      },
+      {
+        "name": "kigumo",
+        "wards": [
+          { "name": "kahumbu" },
+          { "name": "muthithi" },
+          { "name": "kigumo" },
+          { "name": "kangari" },
+          { "name": "kinyona" }
+        ]
+      },
+      {
+        "name": "maragwa",
+        "wards": [
+          { "name": "kimorori/wempa" },
+          { "name": "makuyu" },
+          { "name": "kambiti" },
+          { "name": "kamahuha" },
+          { "name": "ichagaki" },
+          { "name": "nginda" }
+        ]
+      },
+      {
+        "name": "kandara",
+        "wards": [
+          { "name": "ng'araria" },
+          { "name": "muruka" },
+          { "name": "kagundu-ini" },
+          { "name": "gaichanjiru" },
+          { "name": "ithiru" },
+          { "name": "ruchu" }
+        ]
+      },
+      {
+        "name": "gatanga",
+        "wards": [
+          { "name": "ithanga" },
+          { "name": "kakuzi/mitubiri" },
+          { "name": "mugumo-ini" },
+          { "name": "kihumbu-ini" },
+          { "name": "gatanga" },
+          { "name": "kariara" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "KIAMBU",
+    "constituencies": [
+      {
+        "name": "gatundu south",
+        "wards": [
+          { "name": "kiamwangi" },
+          { "name": "kiganjo" },
+          { "name": "ndarugu" },
+          { "name": "ngenda" }
+        ]
+      },
+      {
+        "name": "gatundu north",
+        "wards": [
+          { "name": "gituamba" },
+          { "name": "githobokoni" },
+          { "name": "chania" },
+          { "name": "mang'u" }
+        ]
+      },
+      {
+        "name": "juja",
+        "wards": [
+          { "name": "murera" },
+          { "name": "theta" },
+          { "name": "juja" },
+          { "name": "witeithie" },
+          { "name": "kalimoni" }
+        ]
+      },
+      {
+        "name": "thika town",
+        "wards": [
+          { "name": "township" },
+          { "name": "kamenu" },
+          { "name": "hospital" },
+          { "name": "gatuanyaga" },
+          { "name": "ngoliba" }
+        ]
+      },
+      {
+        "name": "ruiru",
+        "wards": [
+          { "name": "gitothua" },
+          { "name": "biashara" },
+          { "name": "gatongora" },
+          { "name": "kahawa sukari" },
+          { "name": "kahawa wendani" },
+          { "name": "kiuu" },
+          { "name": "mwiki" },
+          { "name": "mwihoko" }
+        ]
+      },
+      {
+        "name": "githunguri",
+        "wards": [
+          { "name": "githunguri" },
+          { "name": "githiga" },
+          { "name": "ikinu" },
+          { "name": "ngewa" },
+          { "name": "komothai" }
+        ]
+      },
+      {
+        "name": "kiambu",
+        "wards": [
+          { "name": "ting'ang'a" },
+          { "name": "ndumberi" },
+          { "name": "riabai" },
+          { "name": "township" }
+        ]
+      },
+      {
+        "name": "kiambaa",
+        "wards": [
+          { "name": "cianda" },
+          { "name": "karuri" },
+          { "name": "ndenderu" },
+          { "name": "muchatha" },
+          { "name": "kihara" }
+        ]
+      },
+      {
+        "name": "kabete",
+        "wards": [
+          { "name": "gitaru" },
+          { "name": "muguga" },
+          { "name": "nyadhuna" },
+          { "name": "kabete" },
+          { "name": "uthiru" }
+        ]
+      },
+      {
+        "name": "kikuyu",
+        "wards": [
+          { "name": "karai" },
+          { "name": "nachu" },
+          { "name": "sigona" },
+          { "name": "kikuyu" },
+          { "name": "kinoo" }
+        ]
+      },
+      {
+        "name": "limuru",
+        "wards": [
+          { "name": "bibirioni" },
+          { "name": "limuru central" },
+          { "name": "ndeiya" },
+          { "name": "limuru east" },
+          { "name": "ngecha tigoni" }
+        ]
+      },
+      {
+        "name": "lari",
+        "wards": [
+          { "name": "kinale" },
+          { "name": "kijabe" },
+          { "name": "nyanduma" },
+          { "name": "kamburu" },
+          { "name": "lari/kirenga" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "TURKANA",
+    "constituencies": [
+      {
+        "name": "turkana north",
+        "wards": [
+          { "name": "kaeris" },
+          { "name": "lake zone" },
+          { "name": "lapur" },
+          { "name": "kaaleng/kaikor" },
+          { "name": "kibish" },
+          { "name": "nakalale" }
+        ]
+      },
+      {
+        "name": "turkana west",
+        "wards": [
+          { "name": "kakuma" },
+          { "name": "lopur" },
+          { "name": "letea" },
+          { "name": "songot" },
+          { "name": "kalobeyei" },
+          { "name": "lokichoggio" },
+          { "name": "nanaam" }
+        ]
+      },
+      {
+        "name": "turkana central",
+        "wards": [
+          { "name": "kerio delta" },
+          { "name": "kang'atotha" },
+          { "name": "kalokol" },
+          { "name": "lodwar township" },
+          { "name": "kanamkemer" }
+        ]
+      },
+      {
+        "name": "loima",
+        "wards": [
+          { "name": "kotaruk/lobei" },
+          { "name": "turkwel" },
+          { "name": "loima" },
+          { "name": "lokiriama/lorengippi" }
+        ]
+      },
+      {
+        "name": "turkana south",
+        "wards": [
+          { "name": "kaputir" },
+          { "name": "katilu" },
+          { "name": "lobokat" },
+          { "name": "kalapata" },
+          { "name": "lokichar" }
+        ]
+      },
+      {
+        "name": "turkana east",
+        "wards": [
+          { "name": "kapedo/napeitom" },
+          { "name": "katilia" },
+          { "name": "lokori/kochodin" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "WEST POKOT",
+    "constituencies": [
+      {
+        "name": "kapenguria",
+        "wards": [
+          { "name": "riwo" },
+          { "name": "kapenguria" },
+          { "name": "mnagei" },
+          { "name": "siyoi" },
+          { "name": "endugh" },
+          { "name": "sook" }
+        ]
+      },
+      {
+        "name": "sigor",
+        "wards": [
+          { "name": "sekerr" },
+          { "name": "masool" },
+          { "name": "lomut" },
+          { "name": "weiwei" }
+        ]
+      },
+      {
+        "name": "kacheliba",
+        "wards": [
+          { "name": "suam" },
+          { "name": "kodich" },
+          { "name": "kapckok" },
+          { "name": "kasei" },
+          { "name": "kiwawa" },
+          { "name": "alale" }
+        ]
+      },
+      {
+        "name": "pokot south",
+        "wards": [
+          { "name": "chepareria" },
+          { "name": "batei" },
+          { "name": "lelan" },
+          { "name": "tapach" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "SAMBURU",
+    "constituencies": [
+      {
+        "name": "samburu west",
+        "wards": [
+          { "name": "lodokejek" },
+          { "name": "suguta marmar" },
+          { "name": "maralal" },
+          { "name": "loosuk" },
+          { "name": "poro" }
+        ]
+      },
+      {
+        "name": "samburu north",
+        "wards": [
+          { "name": "el-barta" },
+          { "name": "nachola" },
+          { "name": "ndoto" },
+          { "name": "nyiro" },
+          { "name": "angata nanyokie" },
+          { "name": "baawa" }
+        ]
+      },
+      {
+        "name": "samburu east",
+        "wards": [
+          { "name": "waso" },
+          { "name": "wamba west" },
+          { "name": "wamba east" },
+          { "name": "wamba north" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "TRANS NZOIA",
+    "constituencies": [
+      {
+        "name": "kwanza",
+        "wards": [
+          { "name": "kapomboi" },
+          { "name": "kwanza" },
+          { "name": "keiyo" },
+          { "name": "bidii" }
+        ]
+      },
+      {
+        "name": "endebess",
+        "wards": [
+          { "name": "chepchoina" },
+          { "name": "endebess" },
+          { "name": "matumbei" }
+        ]
+      },
+      {
+        "name": "saboti",
+        "wards": [
+          { "name": "kinyoro" },
+          { "name": "matisi" },
+          { "name": "tuwani" },
+          { "name": "saboti" },
+          { "name": "machewa" }
+        ]
+      },
+      {
+        "name": "kiminini",
+        "wards": [
+          { "name": "kiminini" },
+          { "name": "waitaluk" },
+          { "name": "sirende" },
+          { "name": "hospital" },
+          { "name": "sikhendu" },
+          { "name": "nabiswa" }
+        ]
+      },
+      {
+        "name": "cherangany",
+        "wards": [
+          { "name": "sinyerere" },
+          { "name": "makutano" },
+          { "name": "kaplamai" },
+          { "name": "motosiet" },
+          { "name": "cherangany/suwerwa" },
+          { "name": "chepsiro/kiptoror" },
+          { "name": "sitatunga" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "UASIN GISHU",
+    "constituencies": [
+      {
+        "name": "soy",
+        "wards": [
+          { "name": "moi's bridge" },
+          { "name": "kapkures" },
+          { "name": "ziwa" },
+          { "name": "segero/barsombe" },
+          { "name": "kipsomba" },
+          { "name": "soy" },
+          { "name": "kuinet/kapsuswa" }
+        ]
+      },
+      {
+        "name": "turbo",
+        "wards": [
+          { "name": "ngenyilel" },
+          { "name": "tapsagoi" },
+          { "name": "kamagut" },
+          { "name": "kiplombe" },
+          { "name": "kapsaos" },
+          { "name": "huruma" }
+        ]
+      },
+      {
+        "name": "moiben",
+        "wards": [
+          { "name": "tembelio" },
+          { "name": "sergoit" },
+          { "name": "karuna/meibeki" },
+          { "name": "moiben" },
+          { "name": "kimumu" }
+        ]
+      },
+      {
+        "name": "ainabkoi",
+        "wards": [
+          { "name": "kapsoya" },
+          { "name": "kaptagat" },
+          { "name": "ainabkoi/olare" }
+        ]
+      },
+      {
+        "name": "kapseret",
+        "wards": [
+          { "name": "simat/kapseret" },
+          { "name": "kipkenyo" },
+          { "name": "ngeria" },
+          { "name": "megun" },
+          { "name": "langas" }
+        ]
+      },
+      {
+        "name": "kesses",
+        "wards": [
+          { "name": "racecourse" },
+          { "name": "cheptiret/kipchamo" },
+          { "name": "tulwet/chuiyat" },
+          { "name": "tarakwa" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "ELGEYO/MARAKWET",
+    "constituencies": [
+      {
+        "name": "marakwet east",
+        "wards": [
+          { "name": "kapyego" },
+          { "name": "sambirir" },
+          { "name": "endo" },
+          { "name": "embobut / embulot" }
+        ]
+      },
+      {
+        "name": "marakwet west",
+        "wards": [
+          { "name": "lelan" },
+          { "name": "sengwer" },
+          { "name": "cherang'any/chebororwa" },
+          { "name": "moiben/kuserwo" },
+          { "name": "kapsowar" },
+          { "name": "arror" }
+        ]
+      },
+      {
+        "name": "keiyo north",
+        "wards": [
+          { "name": "emsoo" },
+          { "name": "kamariny" },
+          { "name": "kapchemutwa" },
+          { "name": "tambach" }
+        ]
+      },
+      {
+        "name": "keiyo south",
+        "wards": [
+          { "name": "kaptarakwa" },
+          { "name": "chepkorio" },
+          { "name": "soy north" },
+          { "name": "soy south" },
+          { "name": "kabiemit" },
+          { "name": "metkei" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "NANDI",
+    "constituencies": [
+      {
+        "name": "tinderet",
+        "wards": [
+          { "name": "songhor/soba" },
+          { "name": "tindiret" },
+          { "name": "chemelil/chemase" },
+          { "name": "kapsimotwo" }
+        ]
+      },
+      {
+        "name": "aldai",
+        "wards": [
+          { "name": "kabwareng" },
+          { "name": "terik" },
+          { "name": "kemeloi-maraba" },
+          { "name": "kobujoi" },
+          { "name": "kaptumo-kaboi" },
+          { "name": "koyo-ndurio" }
+        ]
+      },
+      {
+        "name": "nandi hills",
+        "wards": [
+          { "name": "nandi hills" },
+          { "name": "chepkunyuk" },
+          { "name": "ol'lessos" },
+          { "name": "kapchorua" }
+        ]
+      },
+      {
+        "name": "chesumei",
+        "wards": [
+          { "name": "chemundu/kapng'etuny" },
+          { "name": "kosirai" },
+          { "name": "lelmokwo/ngechek" },
+          { "name": "kaptel/kamoiywo" },
+          { "name": "kiptuya" }
+        ]
+      },
+      {
+        "name": "emgwen",
+        "wards": [
+          { "name": "chepkumia" },
+          { "name": "kapkangani" },
+          { "name": "kapsabet" },
+          { "name": "kilibwoni" }
+        ]
+      },
+      {
+        "name": "mosop",
+        "wards": [
+          { "name": "chepterwai" },
+          { "name": "kipkaren" },
+          { "name": "kurgung/surungai" },
+          { "name": "kabiyet" },
+          { "name": "ndalat" },
+          { "name": "kabisaga" },
+          { "name": "sangalo/kebulonik" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "BARINGO",
+    "constituencies": [
+      {
+        "name": "tiaty",
+        "wards": [
+          { "name": "tirioko" },
+          { "name": "kolowa" },
+          { "name": "ribkwo" },
+          { "name": "silale" },
+          { "name": "loiyamorock" },
+          { "name": "tangulbei/korossi" },
+          { "name": "churo/amaya" }
+        ]
+      },
+      {
+        "name": "baringo  north",
+        "wards": [
+          { "name": "barwessa" },
+          { "name": "kabartonjo" },
+          { "name": "saimo/kipsaraman" },
+          { "name": "saimo/soi" },
+          { "name": "bartabwa" }
+        ]
+      },
+      {
+        "name": "baringo central",
+        "wards": [
+          { "name": "kabarnet" },
+          { "name": "sacho" },
+          { "name": "tenges" },
+          { "name": "ewalel chapchap" },
+          { "name": "kapropita" }
+        ]
+      },
+      {
+        "name": "baringo south",
+        "wards": [
+          { "name": "marigat" },
+          { "name": "ilchamus" },
+          { "name": "mochongoi" },
+          { "name": "mukutani" }
+        ]
+      },
+      {
+        "name": "mogotio",
+        "wards": [
+          { "name": "mogotio" },
+          { "name": "emining" },
+          { "name": "kisanana" }
+        ]
+      },
+      {
+        "name": "eldama ravine",
+        "wards": [
+          { "name": "lembus" },
+          { "name": "lembus kwen" },
+          { "name": "ravine" },
+          { "name": "mumberes/maji mazuri" },
+          { "name": "lembus/perkerra" },
+          { "name": "koibatek" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "LAIKIPIA",
+    "constituencies": [
+      {
+        "name": "laikipia west",
+        "wards": [
+          { "name": "olmoran" },
+          { "name": "rumuruti township" },
+          { "name": "kinamba" },
+          { "name": "marmanet" },
+          { "name": "igwamiti" },
+          { "name": "salama" }
+        ]
+      },
+      {
+        "name": "laikipia east",
+        "wards": [
+          { "name": "ngobit" },
+          { "name": "tigithi" },
+          { "name": "thingithu" },
+          { "name": "nanyuki" },
+          { "name": "umande" }
+        ]
+      },
+      {
+        "name": "laikipia north",
+        "wards": [
+          { "name": "sosian" },
+          { "name": "segera" },
+          { "name": "mukogondo west" },
+          { "name": "mukogondo east" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "NAKURU",
+    "constituencies": [
+      {
+        "name": "molo",
+        "wards": [
+          { "name": "mariashoni" },
+          { "name": "elburgon" },
+          { "name": "turi" },
+          { "name": "molo" }
+        ]
+      },
+      {
+        "name": "njoro",
+        "wards": [
+          { "name": "maunarok" },
+          { "name": "mauche" },
+          { "name": "kihingo" },
+          { "name": "nessuit" },
+          { "name": "lare" },
+          { "name": "njoro" }
+        ]
+      },
+      {
+        "name": "naivasha",
+        "wards": [
+          { "name": "biashara" },
+          { "name": "hells gate" },
+          { "name": "lakeview" },
+          { "name": "maai-mahiu" },
+          { "name": "maiella" },
+          { "name": "olkaria" },
+          { "name": "naivasha east" },
+          { "name": "viwandani" }
+        ]
+      },
+      {
+        "name": "gilgil",
+        "wards": [
+          { "name": "gilgil" },
+          { "name": "elementaita" },
+          { "name": "mbaruk/eburu" },
+          { "name": "malewa west" },
+          { "name": "murindati" }
+        ]
+      },
+      {
+        "name": "kuresoi south",
+        "wards": [
+          { "name": "amalo" },
+          { "name": "keringet" },
+          { "name": "kiptagich" },
+          { "name": "tinet" }
+        ]
+      },
+      {
+        "name": "kuresoi north",
+        "wards": [
+          { "name": "kiptororo" },
+          { "name": "nyota" },
+          { "name": "sirikwa" },
+          { "name": "kamara" }
+        ]
+      },
+      {
+        "name": "subukia",
+        "wards": [
+          { "name": "subukia" },
+          { "name": "waseges" },
+          { "name": "kabazi" }
+        ]
+      },
+      {
+        "name": "rongai",
+        "wards": [
+          { "name": "menengai west" },
+          { "name": "soin" },
+          { "name": "visoi" },
+          { "name": "mosop" },
+          { "name": "solai" }
+        ]
+      },
+      {
+        "name": "bahati",
+        "wards": [
+          { "name": "dundori" },
+          { "name": "kabatini" },
+          { "name": "kiamaina" },
+          { "name": "lanet/umoja" },
+          { "name": "bahati" }
+        ]
+      },
+      {
+        "name": "nakuru town west",
+        "wards": [
+          { "name": "barut" },
+          { "name": "london" },
+          { "name": "kaptembwo" },
+          { "name": "kapkures" },
+          { "name": "rhoda" },
+          { "name": "shaabab" }
+        ]
+      },
+      {
+        "name": "nakuru town east",
+        "wards": [
+          { "name": "biashara" },
+          { "name": "kivumbini" },
+          { "name": "flamingo" },
+          { "name": "menengai" },
+          { "name": "nakuru east" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "NAROK",
+    "constituencies": [
+      {
+        "name": "kilgoris",
+        "wards": [
+          { "name": "kilgoris central" },
+          { "name": "keyian" },
+          { "name": "angata barikoi" },
+          { "name": "shankoe" },
+          { "name": "kimintet" },
+          { "name": "lolgorian" }
+        ]
+      },
+      {
+        "name": "emurua dikirr",
+        "wards": [
+          { "name": "ilkerin" },
+          { "name": "ololmasani" },
+          { "name": "mogondo" },
+          { "name": "kapsasian" }
+        ]
+      },
+      {
+        "name": "narok north",
+        "wards": [
+          { "name": "olpusimoru" },
+          { "name": "olokurto" },
+          { "name": "narok town" },
+          { "name": "nkareta" },
+          { "name": "olorropil" },
+          { "name": "melili" }
+        ]
+      },
+      {
+        "name": "narok east",
+        "wards": [
+          { "name": "mosiro" },
+          { "name": "ildamat" },
+          { "name": "keekonyokie" },
+          { "name": "suswa" }
+        ]
+      },
+      {
+        "name": "narok south",
+        "wards": [
+          { "name": "majimoto/naroosura" },
+          { "name": "ololulung'a" },
+          { "name": "melelo" },
+          { "name": "loita" },
+          { "name": "sogoo" },
+          { "name": "sagamian" }
+        ]
+      },
+      {
+        "name": "narok west",
+        "wards": [
+          { "name": "ilmotiok" },
+          { "name": "mara" },
+          { "name": "siana" },
+          { "name": "naikarra" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "KAJIADO",
+    "constituencies": [
+      {
+        "name": "kajiado north",
+        "wards": [
+          { "name": "olkeri" },
+          { "name": "ongata rongai" },
+          { "name": "nkaimurunya" },
+          { "name": "oloolua" },
+          { "name": "ngong" }
+        ]
+      },
+      {
+        "name": "kajiado central",
+        "wards": [
+          { "name": "purko" },
+          { "name": "ildamat" },
+          { "name": "dalalekutuk" },
+          { "name": "matapato north" },
+          { "name": "matapato south" }
+        ]
+      },
+      {
+        "name": "kajiado east",
+        "wards": [
+          { "name": "kaputiei north" },
+          { "name": "kitengela" },
+          { "name": "oloosirkon/sholinke" },
+          { "name": "kenyawa-poka" },
+          { "name": "imaroro" }
+        ]
+      },
+      {
+        "name": "kajiado west",
+        "wards": [
+          { "name": "keekonyokie" },
+          { "name": "iloodokilani" },
+          { "name": "magadi" },
+          { "name": "ewuaso oonkidong'i" },
+          { "name": "mosiro" }
+        ]
+      },
+      {
+        "name": "kajiado south",
+        "wards": [
+          { "name": "entonet/lenkisim" },
+          { "name": "mbirikani/eselenkei" },
+          { "name": "kuku" },
+          { "name": "rombo" },
+          { "name": "kimana" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "KERICHO",
+    "constituencies": [
+      {
+        "name": "kipkelion east",
+        "wards": [
+          { "name": "londiani" },
+          { "name": "kedowa/kimugul" },
+          { "name": "chepseon" },
+          { "name": "tendeno/sorget" }
+        ]
+      },
+      {
+        "name": "kipkelion west",
+        "wards": [
+          { "name": "kunyak" },
+          { "name": "kamasian" },
+          { "name": "kipkelion" },
+          { "name": "chilchila" }
+        ]
+      },
+      {
+        "name": "ainamoi",
+        "wards": [
+          { "name": "kapsoit" },
+          { "name": "ainamoi" },
+          { "name": "kapkugerwet" },
+          { "name": "kipchebor" },
+          { "name": "kipchimchim" },
+          { "name": "kapsaos" }
+        ]
+      },
+      {
+        "name": "bureti",
+        "wards": [
+          { "name": "kisiara" },
+          { "name": "tebesonik" },
+          { "name": "cheboin" },
+          { "name": "chemosot" },
+          { "name": "litein" },
+          { "name": "cheplanget" },
+          { "name": "kapkatet" }
+        ]
+      },
+      {
+        "name": "belgut",
+        "wards": [
+          { "name": "waldai" },
+          { "name": "kabianga" },
+          { "name": "cheptororiet/seretut" },
+          { "name": "chaik" },
+          { "name": "kapsuser" }
+        ]
+      },
+      {
+        "name": "sigowet/soin",
+        "wards": [
+          { "name": "sigowet" },
+          { "name": "kaplelartet" },
+          { "name": "soliat" },
+          { "name": "soin" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "BOMET",
+    "constituencies": [
+      {
+        "name": "sotik",
+        "wards": [
+          { "name": "ndanai/abosi" },
+          { "name": "chemagel" },
+          { "name": "kipsonoi" },
+          { "name": "kapletundo" },
+          { "name": "rongena/manaret" }
+        ]
+      },
+      {
+        "name": "chepalungu",
+        "wards": [
+          { "name": "kong'asis" },
+          { "name": "nyangores" },
+          { "name": "sigor" },
+          { "name": "chebunyo" },
+          { "name": "siongiroi" }
+        ]
+      },
+      {
+        "name": "bomet east",
+        "wards": [
+          { "name": "merigi" },
+          { "name": "kembu" },
+          { "name": "longisa" },
+          { "name": "kipreres" },
+          { "name": "chemaner" }
+        ]
+      },
+      {
+        "name": "bomet central",
+        "wards": [
+          { "name": "silibwet township" },
+          { "name": "ndaraweta" },
+          { "name": "singorwet" },
+          { "name": "chesoen" },
+          { "name": "mutarakwa" }
+        ]
+      },
+      {
+        "name": "konoin",
+        "wards": [
+          { "name": "chepchabas" },
+          { "name": "kimulot" },
+          { "name": "mogogosiek" },
+          { "name": "boito" },
+          { "name": "embomos" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "KAKAMEGA",
+    "constituencies": [
+      {
+        "name": "lugari",
+        "wards": [
+          { "name": "mautuma" },
+          { "name": "lugari" },
+          { "name": "lumakanda" },
+          { "name": "chekalini" },
+          { "name": "chevaywa" },
+          { "name": "lwandeti" }
+        ]
+      },
+      {
+        "name": "likuyani",
+        "wards": [
+          { "name": "likuyani" },
+          { "name": "sango" },
+          { "name": "kongoni" },
+          { "name": "nzoia" },
+          { "name": "sinoko" }
+        ]
+      },
+      {
+        "name": "malava",
+        "wards": [
+          { "name": "west kabras" },
+          { "name": "chemuche" },
+          { "name": "east kabras" },
+          { "name": "butali/chegulo" },
+          { "name": "manda-shivanga" },
+          { "name": "shirugu-mugai" },
+          { "name": "south kabras" }
+        ]
+      },
+      {
+        "name": "lurambi",
+        "wards": [
+          { "name": "butsotso east" },
+          { "name": "butsotso south" },
+          { "name": "butsotso central" },
+          { "name": "sheywe" },
+          { "name": "mahiakalo" },
+          { "name": "shirere" }
+        ]
+      },
+      {
+        "name": "navakholo",
+        "wards": [
+          { "name": "ingostse-mathia" },
+          { "name": "shinoyi-shikomari-" },
+          { "name": "bunyala west" },
+          { "name": "bunyala east" },
+          { "name": "bunyala central" }
+        ]
+      },
+      {
+        "name": "mumias west",
+        "wards": [
+          { "name": "mumias central" },
+          { "name": "mumias north" },
+          { "name": "etenje" },
+          { "name": "musanda" }
+        ]
+      },
+      {
+        "name": "mumias east",
+        "wards": [
+          { "name": "lubinu/lusheya" },
+          { "name": "isongo/makunga/malaha" },
+          { "name": "east wanga" }
+        ]
+      },
+      {
+        "name": "matungu",
+        "wards": [
+          { "name": "koyonzo" },
+          { "name": "kholera" },
+          { "name": "khalaba" },
+          { "name": "mayoni" },
+          { "name": "namamali" }
+        ]
+      },
+      {
+        "name": "butere",
+        "wards": [
+          { "name": "marama west" },
+          { "name": "marama central" },
+          { "name": "marenyo - shianda" },
+          { "name": "marama north" },
+          { "name": "marama south" }
+        ]
+      },
+      {
+        "name": "khwisero",
+        "wards": [
+          { "name": "kisa north" },
+          { "name": "kisa east" },
+          { "name": "kisa west" },
+          { "name": "kisa central" }
+        ]
+      },
+      {
+        "name": "shinyalu",
+        "wards": [
+          { "name": "isukha north" },
+          { "name": "murhanda" },
+          { "name": "isukha central" },
+          { "name": "isukha south" },
+          { "name": "isukha east" },
+          { "name": "isukha west" }
+        ]
+      },
+      {
+        "name": "ikolomani",
+        "wards": [
+          { "name": "idakho south" },
+          { "name": "idakho east" },
+          { "name": "idakho north" },
+          { "name": "idakho central" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "VIHIGA",
+    "constituencies": [
+      {
+        "name": "vihiga",
+        "wards": [
+          { "name": "lugaga-wamuluma" },
+          { "name": "south maragoli" },
+          { "name": "central maragoli" },
+          { "name": "mungoma" }
+        ]
+      },
+      {
+        "name": "sabatia",
+        "wards": [
+          { "name": "lyaduywa/izava" },
+          { "name": "west sabatia" },
+          { "name": "chavakali" },
+          { "name": "north maragoli" },
+          { "name": "wodanga" },
+          { "name": "busali" }
+        ]
+      },
+      {
+        "name": "hamisi",
+        "wards": [
+          { "name": "shiru" },
+          { "name": "muhudu" },
+          { "name": "shamakhokho" },
+          { "name": "gisambai" },
+          { "name": "banja" },
+          { "name": "tambua" },
+          { "name": "jepkoyai" }
+        ]
+      },
+      {
+        "name": "luanda",
+        "wards": [
+          { "name": "luanda township" },
+          { "name": "wemilabi" },
+          { "name": "mwibona" },
+          { "name": "luanda south" },
+          { "name": "emabungo" }
+        ]
+      },
+      {
+        "name": "emuhaya",
+        "wards": [
+          { "name": "north east bunyore" },
+          { "name": "central bunyore" },
+          { "name": "west bunyore" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "BUNGOMA",
+    "constituencies": [
+      {
+        "name": "mt.elgon",
+        "wards": [
+          { "name": "cheptais" },
+          { "name": "chesikaki" },
+          { "name": "chepyuk" },
+          { "name": "kapkateny" },
+          { "name": "kaptama" },
+          { "name": "elgon" }
+        ]
+      },
+      {
+        "name": "sirisia",
+        "wards": [
+          { "name": "namwela" },
+          { "name": "malakisi/south kulisiru" },
+          { "name": "lwandanyi" }
+        ]
+      },
+      {
+        "name": "kabuchai",
+        "wards": [
+          { "name": "kabuchai/chwele" },
+          { "name": "west nalondo" },
+          { "name": "bwake/luuya" },
+          { "name": "mukuyuni" }
+        ]
+      },
+      {
+        "name": "bumula",
+        "wards": [
+          { "name": "south bukusu" },
+          { "name": "bumula" },
+          { "name": "khasoko" },
+          { "name": "kabula" },
+          { "name": "kimaeti" },
+          { "name": "west bukusu" },
+          { "name": "siboti" }
+        ]
+      },
+      {
+        "name": "kanduyi",
+        "wards": [
+          { "name": "bukembe west" },
+          { "name": "bukembe east" },
+          { "name": "township" },
+          { "name": "khalaba" },
+          { "name": "musikoma" },
+          { "name": "east sang'alo" },
+          { "name": "marakaru/tuuti" },
+          { "name": "sang'alo west" }
+        ]
+      },
+      {
+        "name": "webuye east",
+        "wards": [
+          { "name": "mihuu" },
+          { "name": "ndivisi" },
+          { "name": "maraka" }
+        ]
+      },
+      {
+        "name": "webuye west",
+        "wards": [
+          { "name": "misikhu" },
+          { "name": "sitikho" },
+          { "name": "matulo" },
+          { "name": "bokoli" }
+        ]
+      },
+      {
+        "name": "kimilili",
+        "wards": [
+          { "name": "kimilili" },
+          { "name": "kibingei" },
+          { "name": "maeni" },
+          { "name": "kamukuywa" }
+        ]
+      },
+      {
+        "name": "tongaren",
+        "wards": [
+          { "name": "mbakalo" },
+          { "name": "naitiri/kabuyefwe" },
+          { "name": "milima" },
+          { "name": "ndalu/ tabani" },
+          { "name": "tongaren" },
+          { "name": "soysambu/ mitua" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "BUSIA",
+    "constituencies": [
+      {
+        "name": "teso north",
+        "wards": [
+          { "name": "malaba central" },
+          { "name": "malaba north" },
+          { "name": "ang'urai south" },
+          { "name": "ang'urai north" },
+          { "name": "ang'urai east" },
+          { "name": "malaba south" }
+        ]
+      },
+      {
+        "name": "teso south",
+        "wards": [
+          { "name": "ang'orom" },
+          { "name": "chakol south" },
+          { "name": "chakol north" },
+          { "name": "amukura west" },
+          { "name": "amukura east" },
+          { "name": "amukura central" }
+        ]
+      },
+      {
+        "name": "nambale",
+        "wards": [
+          { "name": "nambale township" },
+          { "name": "bukhayo north/waltsi" },
+          { "name": "bukhayo east" },
+          { "name": "bukhayo central" }
+        ]
+      },
+      {
+        "name": "matayos",
+        "wards": [
+          { "name": "bukhayo west" },
+          { "name": "mayenje" },
+          { "name": "matayos south" },
+          { "name": "busibwabo" },
+          { "name": "burumba" }
+        ]
+      },
+      {
+        "name": "butula",
+        "wards": [
+          { "name": "marachi west" },
+          { "name": "kingandole" },
+          { "name": "marachi central" },
+          { "name": "marachi east" },
+          { "name": "marachi north" },
+          { "name": "elugulu" }
+        ]
+      },
+      {
+        "name": "funyula",
+        "wards": [
+          { "name": "namboboto nambuku" },
+          { "name": "nangina" },
+          { "name": "ageng'a nanguba" },
+          { "name": "bwiri" }
+        ]
+      },
+      {
+        "name": "budalangi",
+        "wards": [
+          { "name": "bunyala central" },
+          { "name": "bunyala north" },
+          { "name": "bunyala west" },
+          { "name": "bunyala south" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "SIAYA",
+    "constituencies": [
+      {
+        "name": "ugenya",
+        "wards": [
+          { "name": "west ugenya" },
+          { "name": "ukwala" },
+          { "name": "north ugenya" },
+          { "name": "east ugenya" }
+        ]
+      },
+      {
+        "name": "ugunja",
+        "wards": [
+          { "name": "sidindi" },
+          { "name": "sigomere" },
+          { "name": "ugunja" }
+        ]
+      },
+      {
+        "name": "alego usonga",
+        "wards": [
+          { "name": "usonga" },
+          { "name": "west alego" },
+          { "name": "central alego" },
+          { "name": "siaya township" },
+          { "name": "north alego" },
+          { "name": "south east alego" }
+        ]
+      },
+      {
+        "name": "gem",
+        "wards": [
+          { "name": "north gem" },
+          { "name": "west gem" },
+          { "name": "central gem" },
+          { "name": "yala township" },
+          { "name": "east gem" },
+          { "name": "south gem" }
+        ]
+      },
+      {
+        "name": "bondo",
+        "wards": [
+          { "name": "west yimbo" },
+          { "name": "central sakwa" },
+          { "name": "south sakwa" },
+          { "name": "yimbo east" },
+          { "name": "west sakwa" },
+          { "name": "north sakwa" }
+        ]
+      },
+      {
+        "name": "rarieda",
+        "wards": [
+          { "name": "east asembo" },
+          { "name": "west asembo" },
+          { "name": "north uyoma" },
+          { "name": "south uyoma" },
+          { "name": "west uyoma" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "KISUMU",
+    "constituencies": [
+      {
+        "name": "kisumu east",
+        "wards": [
+          { "name": "kajulu" },
+          { "name": "kolwa east" },
+          { "name": "manyatta 'b'" },
+          { "name": "nyalenda 'a'" },
+          { "name": "kolwa central" }
+        ]
+      },
+      {
+        "name": "kisumu west",
+        "wards": [
+          { "name": "south west kisumu" },
+          { "name": "central kisumu" },
+          { "name": "kisumu north" },
+          { "name": "west kisumu" },
+          { "name": "north west kisumu" }
+        ]
+      },
+      {
+        "name": "kisumu central",
+        "wards": [
+          { "name": "railways" },
+          { "name": "migosi" },
+          { "name": "shaurimoyo kaloleni" },
+          { "name": "market milimani" },
+          { "name": "kondele" },
+          { "name": "nyalenda b" }
+        ]
+      },
+      {
+        "name": "seme",
+        "wards": [
+          { "name": "west seme" },
+          { "name": "central seme" },
+          { "name": "east seme" },
+          { "name": "north seme" }
+        ]
+      },
+      {
+        "name": "nyando",
+        "wards": [
+          { "name": "east kano/wawidhi" },
+          { "name": "awasi/onjiko" },
+          { "name": "ahero" },
+          { "name": "kabonyo/kanyagwal" },
+          { "name": "kobura" }
+        ]
+      },
+      {
+        "name": "muhoroni",
+        "wards": [
+          { "name": "miwani" },
+          { "name": "ombeyi" },
+          { "name": "masogo/nyang'oma" },
+          { "name": "chemelil" },
+          { "name": "muhoroni/koru" }
+        ]
+      },
+      {
+        "name": "nyakach",
+        "wards": [
+          { "name": "south west nyakach" },
+          { "name": "north nyakach" },
+          { "name": "central nyakach" },
+          { "name": "west nyakach" },
+          { "name": "south east nyakach" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "HOMA BAY",
+    "constituencies": [
+      {
+        "name": "kasipul",
+        "wards": [
+          { "name": "west kasipul" },
+          { "name": "south kasipul" },
+          { "name": "central kasipul" },
+          { "name": "east kamagak" },
+          { "name": "west kamagak" }
+        ]
+      },
+      {
+        "name": "kabondo kasipul",
+        "wards": [
+          { "name": "kabondo east" },
+          { "name": "kabondo west" },
+          { "name": "kokwanyo/kakelo" },
+          { "name": "kojwach" }
+        ]
+      },
+      {
+        "name": "karachuonyo",
+        "wards": [
+          { "name": "west karachuonyo" },
+          { "name": "north karachuonyo" },
+          { "name": "central" },
+          { "name": "kanyaluo" },
+          { "name": "kibiri" },
+          { "name": "wangchieng" },
+          { "name": "kendu bay town" }
+        ]
+      },
+      {
+        "name": "rangwe",
+        "wards": [
+          { "name": "west gem" },
+          { "name": "east gem" },
+          { "name": "kagan" },
+          { "name": "kochia" }
+        ]
+      },
+      {
+        "name": "homa bay town",
+        "wards": [
+          { "name": "homa bay central" },
+          { "name": "homa bay arujo" },
+          { "name": "homa bay west" },
+          { "name": "homa bay east" }
+        ]
+      },
+      {
+        "name": "ndhiwa",
+        "wards": [
+          { "name": "kwabwai" },
+          { "name": "kanyadoto" },
+          { "name": "kanyikela" },
+          { "name": "north kabuoch" },
+          { "name": "kabuoch south/pala" },
+          { "name": "kanyamwa kologi" },
+          { "name": "kanyamwa kosewe" }
+        ]
+      },
+      {
+        "name": "mbita",
+        "wards": [
+          { "name": "mfangano island" },
+          { "name": "rusinga island" },
+          { "name": "kasgunga" },
+          { "name": "gembe" },
+          { "name": "lambwe" }
+        ]
+      },
+      {
+        "name": "suba",
+        "wards": [
+          { "name": "gwassi south" },
+          { "name": "gwassi north" },
+          { "name": "kaksingri west" },
+          { "name": "ruma kaksingri east" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "MIGORI",
+    "constituencies": [
+      {
+        "name": "rongo",
+        "wards": [
+          { "name": "north kamagambo" },
+          { "name": "central kamagambo" },
+          { "name": "east kamagambo" },
+          { "name": "south kamagambo" }
+        ]
+      },
+      {
+        "name": "awendo",
+        "wards": [
+          { "name": "north sakwa" },
+          { "name": "south sakwa" },
+          { "name": "west sakwa" },
+          { "name": "central sakwa" }
+        ]
+      },
+      {
+        "name": "suna east",
+        "wards": [
+          { "name": "god jope" },
+          { "name": "suna central" },
+          { "name": "kakrao" },
+          { "name": "kwa" }
+        ]
+      },
+      {
+        "name": "suna west",
+        "wards": [
+          { "name": "wiga" },
+          { "name": "wasweta ii" },
+          { "name": "ragana-oruba" },
+          { "name": "wasimbete" }
+        ]
+      },
+      {
+        "name": "uriri",
+        "wards": [
+          { "name": "west kanyamkago" },
+          { "name": "north kanyamkago" },
+          { "name": "central kanyamkago" },
+          { "name": "south kanyamkago" },
+          { "name": "east kanyamkago" }
+        ]
+      },
+      {
+        "name": "nyatike",
+        "wards": [
+          { "name": "kachien'g" },
+          { "name": "kanyasa" },
+          { "name": "north kadem" },
+          { "name": "macalder/kanyarwanda" },
+          { "name": "kaler" },
+          { "name": "got kachola" },
+          { "name": "muhuru" }
+        ]
+      },
+      {
+        "name": "kuria west",
+        "wards": [
+          { "name": "bukira east" },
+          { "name": "bukira centrl/ikerege" },
+          { "name": "isibania" },
+          { "name": "makerero" },
+          { "name": "masaba" },
+          { "name": "tagare" },
+          { "name": "nyamosense/komosoko" }
+        ]
+      },
+      {
+        "name": "kuria east",
+        "wards": [
+          { "name": "gokeharaka/getambwega" },
+          { "name": "ntimaru west" },
+          { "name": "ntimaru east" },
+          { "name": "nyabasi east" },
+          { "name": "nyabasi west" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "KISII",
+    "constituencies": [
+      {
+        "name": "bonchari",
+        "wards": [
+          { "name": "bomariba" },
+          { "name": "bogiakumu" },
+          { "name": "bomorenda" },
+          { "name": "riana" }
+        ]
+      },
+      {
+        "name": "south mugirango",
+        "wards": [
+          { "name": "tabaka" },
+          { "name": "boikang'a" },
+          { "name": "bogetenga" },
+          { "name": "borabu / chitago" },
+          { "name": "moticho" },
+          { "name": "getenga" }
+        ]
+      },
+      {
+        "name": "bomachoge borabu",
+        "wards": [
+          { "name": "bombaba borabu" },
+          { "name": "boochi borabu" },
+          { "name": "bokimonge" },
+          { "name": "magenche" }
+        ]
+      },
+      {
+        "name": "bobasi",
+        "wards": [
+          { "name": "masige west" },
+          { "name": "masige east" },
+          { "name": "bobasi central" },
+          { "name": "nyacheki" },
+          { "name": "bobasi bogetaorio" },
+          { "name": "bobasi chache" },
+          { "name": "sameta/mokwerero" },
+          { "name": "bobasi boitangare" }
+        ]
+      },
+      {
+        "name": "bomachoge chache",
+        "wards": [
+          { "name": "majoge" },
+          { "name": "boochi/tendere" },
+          { "name": "bosoti/sengera" }
+        ]
+      },
+      {
+        "name": "nyaribari masaba",
+        "wards": [
+          { "name": "ichuni" },
+          { "name": "nyamasibi" },
+          { "name": "masimba" },
+          { "name": "gesusu" },
+          { "name": "kiamokama" }
+        ]
+      },
+      {
+        "name": "nyaribari chache",
+        "wards": [
+          { "name": "bobaracho" },
+          { "name": "kisii central" },
+          { "name": "keumbu" },
+          { "name": "kiogoro" },
+          { "name": "birongo" },
+          { "name": "ibeno" }
+        ]
+      },
+      {
+        "name": "kitutu chache north",
+        "wards": [
+          { "name": "monyerero" },
+          { "name": "sensi" },
+          { "name": "marani" },
+          { "name": "kegogi" }
+        ]
+      },
+      {
+        "name": "kitutu chache south",
+        "wards": [
+          { "name": "bogusero" },
+          { "name": "bogeka" },
+          { "name": "nyakoe" },
+          { "name": "kitutu   central" },
+          { "name": "nyatieko" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "NYAMIRA",
+    "constituencies": [
+      {
+        "name": "kitutu masaba",
+        "wards": [
+          { "name": "rigoma" },
+          { "name": "gachuba" },
+          { "name": "kemera" },
+          { "name": "magombo" },
+          { "name": "manga" },
+          { "name": "gesima" }
+        ]
+      },
+      {
+        "name": "west mugirango",
+        "wards": [
+          { "name": "nyamaiya" },
+          { "name": "bogichora" },
+          { "name": "bosamaro" },
+          { "name": "bonyamatuta" },
+          { "name": "township" }
+        ]
+      },
+      {
+        "name": "north mugirango",
+        "wards": [
+          { "name": "itibo" },
+          { "name": "bomwagamo" },
+          { "name": "bokeira" },
+          { "name": "magwagwa" },
+          { "name": "ekerenyo" }
+        ]
+      },
+      {
+        "name": "borabu",
+        "wards": [
+          { "name": "mekenene" },
+          { "name": "kiabonyoru" },
+          { "name": "nyansiongo" },
+          { "name": "esise" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "NAIROBI",
+    "constituencies": [
+      {
+        "name": "westlands",
+        "wards": [
+          { "name": "kitisuru" },
+          { "name": "parklands/highridge" },
+          { "name": "karura" },
+          { "name": "kangemi" },
+          { "name": "mountain view" }
+        ]
+      },
+      {
+        "name": "dagoretti north",
+        "wards": [
+          { "name": "kilimani" },
+          { "name": "kawangware" },
+          { "name": "gatina" },
+          { "name": "kileleshwa" },
+          { "name": "kabiro" }
+        ]
+      },
+      {
+        "name": "dagoretti south",
+        "wards": [
+          { "name": "mutuini" },
+          { "name": "ngando" },
+          { "name": "riruta" },
+          { "name": "uthiru/ruthimitu" },
+          { "name": "waithaka" }
+        ]
+      },
+      {
+        "name": "langata",
+        "wards": [
+          { "name": "karen" },
+          { "name": "nairobi west" },
+          { "name": "mugumo-ini" },
+          { "name": "south-c" },
+          { "name": "nyayo highrise" }
+        ]
+      },
+      {
+        "name": "kibra",
+        "wards": [
+          { "name": "laini saba" },
+          { "name": "lindi" },
+          { "name": "makina" },
+          { "name": "woodley/kenyatta golf" },
+          { "name": "sarangombe" }
+        ]
+      },
+      {
+        "name": "roysambu",
+        "wards": [
+          { "name": "githurai" },
+          { "name": "kahawa west" },
+          { "name": "zimmerman" },
+          { "name": "roysambu" },
+          { "name": "kahawa" }
+        ]
+      },
+      {
+        "name": "kasarani",
+        "wards": [
+          { "name": "claycity" },
+          { "name": "mwiki" },
+          { "name": "kasarani" },
+          { "name": "njiru" },
+          { "name": "ruai" }
+        ]
+      },
+      {
+        "name": "ruaraka",
+        "wards": [
+          { "name": "baba dogo" },
+          { "name": "utalii" },
+          { "name": "mathare north" },
+          { "name": "lucky summer" },
+          { "name": "korogocho" }
+        ]
+      },
+      {
+        "name": "embakasi south",
+        "wards": [
+          { "name": "imara daima" },
+          { "name": "kwa njenga" },
+          { "name": "kwa reuben" },
+          { "name": "pipeline" },
+          { "name": "kware" }
+        ]
+      },
+      {
+        "name": "embakasi north",
+        "wards": [
+          { "name": "kariobangi north" },
+          { "name": "dandora area i" },
+          { "name": "dandora area ii" },
+          { "name": "dandora area iii" },
+          { "name": "dandora area iv" }
+        ]
+      },
+      {
+        "name": "embakasi central",
+        "wards": [
+          { "name": "kayole north" },
+          { "name": "kayole central" },
+          { "name": "kayole south" },
+          { "name": "komarock" },
+          { "name": "matopeni" }
+        ]
+      },
+      {
+        "name": "embakasi east",
+        "wards": [
+          { "name": "upper savannah" },
+          { "name": "lower savannah" },
+          { "name": "embakasi" },
+          { "name": "utawala" },
+          { "name": "mihango" }
+        ]
+      },
+      {
+        "name": "embakasi west",
+        "wards": [
+          { "name": "umoja i" },
+          { "name": "umoja ii" },
+          { "name": "mowlem" },
+          { "name": "kariobangi south" }
+        ]
+      },
+      {
+        "name": "makadara",
+        "wards": [
+          { "name": "makongeni" },
+          { "name": "maringo/hamza" },
+          { "name": "harambee" },
+          { "name": "viwandani" }
+        ]
+      },
+      {
+        "name": "kamukunji",
+        "wards": [
+          { "name": "pumwani" },
+          { "name": "eastleigh north" },
+          { "name": "eastleigh south" },
+          { "name": "airbase" },
+          { "name": "california" }
+        ]
+      },
+      {
+        "name": "starehe",
+        "wards": [
+          { "name": "nairobi central" },
+          { "name": "ngara" },
+          { "name": "ziwani/kariokor" },
+          { "name": "pangani" },
+          { "name": "landimawe" },
+          { "name": "nairobi south" }
+        ]
+      },
+      {
+        "name": "mathare",
+        "wards": [
+          { "name": "hospital" },
+          { "name": "mabatini" },
+          { "name": "huruma" },
+          { "name": "ngei" },
+          { "name": "mlango kubwa" },
+          { "name": "kiamaiko" }
+        ]
+      }
+    ]
+  }
+]
