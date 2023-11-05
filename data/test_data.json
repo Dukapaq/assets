@@ -1,0 +1,64 @@
+[{
+    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "title": "Image operations",
+    "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
+    "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
+    "featured": "5686738653db66b39cfad13e1104150d9.webp",
+    "published": false,
+    "authorId": "ff209813-9a7c-49d7-b45d-b81af2cb3ce3",
+    "categoryId": "fbd16202-decc-4100-aa2a-cea5d342c38a",
+    "tenantId": "4ae4a26b-d13c-4d11-bfb0-b5cb3c575719",
+    "createdAt": "2023-11-05T17:23:30.169Z",
+    "updatedAt": "2023-11-05T17:23:30.169Z",
+    "category": {
+        "name": "Finance"
+    }
+},
+{
+    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "title": "Image operations",
+    "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
+    "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
+    "featured": "5686738653db66b39cfad13e1104150d9.webp",
+    "published": false,
+    "authorId": "ff209813-9a7c-49d7-b45d-b81af2cb3ce3",
+    "categoryId": "fbd16202-decc-4100-aa2a-cea5d342c38a",
+    "tenantId": "4ae4a26b-d13c-4d11-bfb0-b5cb3c575719",
+    "createdAt": "2023-11-05T17:23:30.169Z",
+    "updatedAt": "2023-11-05T17:23:30.169Z",
+    "category": {
+        "name": "Finance"
+    }
+},
+{
+    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "title": "Image operations",
+    "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
+    "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
+    "featured": "5686738653db66b39cfad13e1104150d9.webp",
+    "published": false,
+    "authorId": "ff209813-9a7c-49d7-b45d-b81af2cb3ce3",
+    "categoryId": "fbd16202-decc-4100-aa2a-cea5d342c38a",
+    "tenantId": "4ae4a26b-d13c-4d11-bfb0-b5cb3c575719",
+    "createdAt": "2023-11-05T17:23:30.169Z",
+    "updatedAt": "2023-11-05T17:23:30.169Z",
+    "category": {
+        "name": "Finance"
+    }
+},
+{
+    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "title": "Image operations",
+    "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
+    "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
+    "featured": "5686738653db66b39cfad13e1104150d9.webp",
+    "published": false,
+    "authorId": "ff209813-9a7c-49d7-b45d-b81af2cb3ce3",
+    "categoryId": "fbd16202-decc-4100-aa2a-cea5d342c38a",
+    "tenantId": "4ae4a26b-d13c-4d11-bfb0-b5cb3c575719",
+    "createdAt": "2023-11-05T17:23:30.169Z",
+    "updatedAt": "2023-11-05T17:23:30.169Z",
+    "category": {
+        "name": "Finance"
+    }
+}]
