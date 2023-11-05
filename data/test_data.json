@@ -1,5 +1,5 @@
 [{
-    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "id": "647e406b-16de-49db-a3b9-e346a589964d",
     "title": "Image operations",
     "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
     "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
@@ -31,7 +31,7 @@
     }
 },
 {
-    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "id": "647e406b-16de-49db-a3b9-e346a589964a",
     "title": "Image operations",
     "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
     "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
@@ -47,7 +47,7 @@
     }
 },
 {
-    "id": "647e406b-16de-49db-a3b9-e346a589964c",
+    "id": "647e406b-16de-49db-a3b9-e346a589964b",
     "title": "Image operations",
     "content": "<p>Rotate the output image by either an explicit angle or auto-orient based on the EXIF&nbsp;<code style=\"color: var(--inline-code-color);\">",
     "summary": "Rotate the output image by either an explicit angle or auto-orient based on the EXIF Orientation tag.\r\n\r\nIf an angle is provided, it is converted to a valid positive degree rotation. For example, -450 will produce a 270 degree rotation.\r\n\r\nWhen rotating by an angle other than a multiple of 90, the background colour can be provided with the background option.",
